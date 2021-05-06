@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 line10
-line11
 line12
+line1
+line3
+
